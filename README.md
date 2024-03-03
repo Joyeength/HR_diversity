@@ -1,3 +1,6 @@
+### Some contexts
+Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress.
+
 ### HR_diversity: Insights
 
 - The turnover rate of Men and Women is the opposite. For juniors and directors, men have a high turnover rate, while for women, Senior officers and directors are two positions with high turnover rates that need to be controlled.
